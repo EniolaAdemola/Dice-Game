@@ -7,6 +7,6 @@
 #### ---> Output the winner of the Game
 #### ---> Chance to Play the Game Again
 
-##### Game Preview 👇🏻 to play the game [Click Here](https://dice-game-weld.vercel.app/)
+##### Game Preview 👇🏻 to play the game [Click Here](https://my-dice-game.vercel.app/)
 
 ![Capture](https://user-images.githubusercontent.com/107508295/174418302-08dc739a-8410-4914-bc8c-d7e1854711ad.PNG)
